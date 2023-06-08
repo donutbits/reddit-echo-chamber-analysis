@@ -1,12 +1,4 @@
 /.DS_Store
-/Decoder.ipynb
-/Exploration.ipynb
-/NRC-Emotion.txt
-/Network Analysis.ipynb
-/Project Proposal.docx
-/Sentiment Analysis.ipynb
 /__pycache__
 /analysis
 /data
-/lexicon_clean.json
-/scratch_work.py
